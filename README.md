@@ -56,7 +56,7 @@ Make sure you have the following installed:
 ### Steps to Run the Project Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/lesson-planner.git
+   git clone https://github.com/saurabh-G07/lesson-planner
    cd lesson-planner
    ```
 2. Install dependencies:
