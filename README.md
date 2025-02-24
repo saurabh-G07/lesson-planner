@@ -90,16 +90,6 @@ Use the following dummy credentials to log in:
 - View the generated content on the right side of the page.
 - Click **"Download PDF"** to save the lesson plan as a PDF.
 
-## Screenshots
-- **Splash Screen**
-- **Login Page**
-- **Lesson Planner Page**
-
-## Known Issues / Future Improvements
-- **Dynamic Error Handling**: Improve error handling for API failures (e.g., invalid API keys).
-- **Enhanced Styling**: Add more professional styling for mobile devices.
-- **Backend Integration**: Add backend authentication for real-world use cases.
-
 ## License
 This project is licensed under the MIT License.
 
